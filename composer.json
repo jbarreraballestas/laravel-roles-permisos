@@ -1,7 +1,7 @@
 {
     "name": "novatopro/lrp",
     "description": "This is my package lrp",
-    "version": "0.0.3",
+    "version": "dev-main",
     "keywords": [
         "NovatoPro",
         "laravel",
@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "illuminate/contracts": "^10.0",
         "livewire/livewire": "^2.12",
         "spatie/laravel-package-tools": "^1.14.0"
